@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diorama 3D - Pohon Natural dan Nyata
+* source:	https://sketchfab.com/3d-models/diorama-3d-pohon-natural-dan-nyata-ea8fdd54df984469accb5e935c6b910c
+* author:	Cubic Studio (https://sketchfab.com/Cubic_Studio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diorama 3D - Pohon Natural dan Nyata" (https://sketchfab.com/3d-models/diorama-3d-pohon-natural-dan-nyata-ea8fdd54df984469accb5e935c6b910c) by Cubic Studio (https://sketchfab.com/Cubic_Studio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

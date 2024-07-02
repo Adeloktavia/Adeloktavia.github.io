@@ -1,0 +1,11 @@
+Model Information:
+* title:	Batang-pohon-sketchfab
+* source:	https://sketchfab.com/3d-models/batang-pohon-sketchfab-438e2b7f4aeb477ca6c3bddef2bdb6e7
+* author:	ARkomben (https://sketchfab.com/Hazmat.Olivia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Batang-pohon-sketchfab" (https://sketchfab.com/3d-models/batang-pohon-sketchfab-438e2b7f4aeb477ca6c3bddef2bdb6e7) by ARkomben (https://sketchfab.com/Hazmat.Olivia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

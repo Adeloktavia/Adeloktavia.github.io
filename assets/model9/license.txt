@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pohon_textured_mesh_medpoly_obj
+* source:	https://sketchfab.com/3d-models/pohon-textured-mesh-medpoly-obj-177613ca9697484c875e60437251b0b8
+* author:	Sjakirafazilatunnisa6 (https://sketchfab.com/Shakirafazilatunnisa6)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pohon_textured_mesh_medpoly_obj" (https://sketchfab.com/3d-models/pohon-textured-mesh-medpoly-obj-177613ca9697484c875e60437251b0b8) by Sjakirafazilatunnisa6 (https://sketchfab.com/Shakirafazilatunnisa6) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

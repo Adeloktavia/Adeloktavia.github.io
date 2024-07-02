@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pohon Uv
+* source:	https://sketchfab.com/3d-models/pohon-uv-4a43470b40b64f8b966653ba70d5b904
+* author:	ice (https://sketchfab.com/blufirework)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pohon Uv" (https://sketchfab.com/3d-models/pohon-uv-4a43470b40b64f8b966653ba70d5b904) by ice (https://sketchfab.com/blufirework) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

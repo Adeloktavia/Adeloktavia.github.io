@@ -1,0 +1,11 @@
+Model Information:
+* title:	Batang pohon
+* source:	https://sketchfab.com/3d-models/batang-pohon-d5d09250730744b291f2c0a5552fae02
+* author:	dekahobby (https://sketchfab.com/dekahobby)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Batang pohon" (https://sketchfab.com/3d-models/batang-pohon-d5d09250730744b291f2c0a5552fae02) by dekahobby (https://sketchfab.com/dekahobby) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
